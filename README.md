@@ -18,7 +18,7 @@
 - 😄 Pronouns: <strong> Him/He </strong>
   
 - ⚡ Fun fact: I enjoy the challenge of continuously learning and adapting to new technologies in the ever-evolving digital landscape.
-
+- 
 <!---
 kmgmedia/kmgmedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
