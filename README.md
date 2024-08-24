@@ -1,8 +1,8 @@
 -  <div>
             <h2>
-                👋 Hi, I’m KmgMedia
+                👋 Hi, I’m Moruf
             </h2>
-                 <h3>Experienced Multi-Talented Designer with a focus on Software Engineering (MERN stack development) and Product Design, adept in Graphic Design and Corporate Branding. I am proficient in Agile Brief Writing.</h3>
+                 <h3>Experienced Multi-Talented Designer focusing on Software Engineering (MERN stack development) and Product Design, adept in Graphic Design and Corporate Branding. I am proficient in Agile Brief Writing.</h3>
             </div>
   
 - 👀 I’m interested in Front-end, Backend Engineer, UI/UX Design, 
@@ -13,7 +13,7 @@
   
 - 📫 You can reach me via email: morufbadebola@gmail.com or via my LinkedIn: https://www.linkedin.com/in/moruf-adebola-191928243/
   
-- 🤔 I'm seeking assistance with open-source projects, e-commerce, backend solutions, fintech solutions.
+- 🤔 I'm seeking assistance with open-source projects, e-commerce, backend solutions, and fintech solutions.
   
 - 😄 Pronouns: <strong> Him/He </strong>
   
