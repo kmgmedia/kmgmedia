@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/moruf-adebola-191928243/](https://www.linkedin.com/in/moruf-adebola-191928243/)
 
-- 💬 Ask me about **MEARN STACK**
+- 💬 Ask me about **MEARN-STACK**
 
 - 📫 How to reach me **morufbadebola@gmail.com**
 
