@@ -1,5 +1,5 @@
 <img align="right" alt="Coding" width="" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif">
-<h1 align="center">Hi 👋, I'm Moruf</h1>
+<h1 align="center">Hi 👋, I'm Moruf Adebola</h1>
 <h3 align="center">Experienced Multi-Talented Designer focusing on Software Engineering (MERN stack development) and Product Design, adept in Graphic Design and Corporate Branding. I am proficient in Agile Brief Writing.</h3>
 <img align="right" alt="Coding" width="" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
 
