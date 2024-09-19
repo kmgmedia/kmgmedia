@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgmedia&label=Profile%20views&color=0e75b6&style=flat" alt="kmgmedia" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/nft_kingm" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/nft_kingm?logo=twitter&style=for-the-badge" alt="https://x.com/nft_kingm" /></a> </p>
-
 - 🔭 I’m currently working on **PetHome App**
 
 - 🌱 I’m currently learning **React Native**
