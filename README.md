@@ -23,3 +23,7 @@
 kmgmedia/kmgmedia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+
+Languages and Tools:
+bootstrap css3 figma git html5 javascript mongodb mysql nodejs postman react redux sass tailwind typescript
