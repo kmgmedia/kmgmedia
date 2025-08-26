@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **PetHome App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **Some Project**
 
