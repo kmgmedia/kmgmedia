@@ -1,6 +1,6 @@
 <img align="right" alt="Coding" width="" src="https://www.paliscope.com/wp-content/uploads/2018/04/Gif-animation-hello.gif">
 <h1 align="center">Hi 👋, I'm Moruf Adebola</h1>
-<h3 align="center">Experienced Multi-Talented Designer focusing on Software Engineering (MERN stack development) and Product Design, adept in Graphic Design and Corporate Branding. I am proficient in Agile Brief Writing.</h3>
+<h3 align="center">Full Stack Software Engineer | React.js & Backend/API Developer | UI/UX Design Expert | Building Scalable, Beautiful & Functional Digital Products | Excellence is Non-Negotiable</h3>
 <img align="right" alt="Coding" width="" src="https://media1.tenor.com/m/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgmedia&label=Profile%20views&color=0e75b6&style=flat" alt="kmgmedia" /> </p>
