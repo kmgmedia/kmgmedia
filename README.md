@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Chowly App**
 
-- 🌱 I’m currently learning **I build production-ready web and mobile applications. Open to freelance and contract opportunities. Reach out if you need a developer who can turn your idea into a working product.**
+- 🌱 I’m Available to Work **I build production-ready web and mobile applications. Open to freelance and contract opportunities. Reach out if you need a developer who can turn your idea into a working product.**
 
 - 👯 I’m looking to collaborate on **Some Project**
 
