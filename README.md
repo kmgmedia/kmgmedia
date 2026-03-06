@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmgmedia&label=Profile%20views&color=0e75b6&style=flat" alt="kmgmedia" /> </p>
 
-- 🔭 I’m currently working on **PetHome App**
+- 🔭 I’m currently working on **Chowly App**
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **I build production-ready web and mobile applications. Open to freelance and contract opportunities. Reach out if you need a developer who can turn your idea into a working product.**
 
 - 👯 I’m looking to collaborate on **Some Project**
 
