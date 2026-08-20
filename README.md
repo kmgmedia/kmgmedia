@@ -115,28 +115,7 @@ Full write-ups live on [morufstackdev.com.ng](https://www.morufstackdev.com.ng/)
 
 ## GitHub
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kmgmedia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A5B4FC&text_color=8B949E&icon_color=22D3EE" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=kmgmedia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=4F46E5&text_color=57606A&icon_color=0891B2" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=kmgmedia&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats for kmgmedia" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kmgmedia&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A5B4FC&text_color=8B949E" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=kmgmedia&layout=compact&hide_border=true&langs_count=8&title_color=4F46E5&text_color=57606A" />
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=kmgmedia&layout=compact&hide_border=true&langs_count=8" alt="Most used languages" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kmgmedia&hide_border=true&background=0D1117&stroke=21262D&ring=6366F1&fire=22D3EE&currStreakLabel=A5B4FC&sideLabels=8B949E&dates=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kmgmedia&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" />
-    <img src="https://streak-stats.demolab.com/?user=kmgmedia&hide_border=true" alt="Contribution streak" />
-  </picture>
-</p>
-
-<br />
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmgmedia&theme=github_dark" /> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmgmedia&theme=github" alt="GitHub profile summary for kmgmedia" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmgmedia&theme=github_dark" /> <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmgmedia&theme=github" alt="Repositories by language" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kmgmedia&theme=github_dark" /> <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kmgmedia&theme=github" alt="Most-used language by commits" /> </picture> </p> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=kmgmedia&hide_border=true&background=0D1117&stroke=21262D&ring=6366F1&fire=22D3EE&currStreakLabel=A5B4FC&sideLabels=8B949E&dates=8B949E&sideNums=E6EDF3&currStreakNum=E6EDF3" /> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=kmgmedia&hide_border=true&ring=4F46E5&fire=0891B2&currStreakLabel=4F46E5" /> <img src="https://streak-stats.demolab.com/?user=kmgmedia&hide_border=true" alt="Contribution streak" /> </picture> </p> <br />
 
 ## Working together
 
