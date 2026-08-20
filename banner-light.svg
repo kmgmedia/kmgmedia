@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Moruf Adebola — AI Automation Engineer and Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#F2F5F9"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#4F46E5"/>
+      <stop offset="100%" stop-color="#0891B2"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#4F46E5" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#4F46E5" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="corona" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#0891B2" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="1.4" cy="1.4" r="1.4" fill="#0D1117" fill-opacity="0.055"/>
+    </pattern>
+    <clipPath id="card">
+      <rect x="1" y="1" width="1198" height="338" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#card)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <ellipse cx="985" cy="170" rx="300" ry="215" fill="url(#glow)"/>
+    <ellipse cx="120" cy="330" rx="330" ry="190" fill="url(#corona)"/>
+  </g>
+  <rect x="0.75" y="0.75" width="1198.5" height="338.5" rx="18" fill="none" stroke="#D8DEE4" stroke-width="1.5"/>
+
+  <!-- ── Identity block ─────────────────────────────────────── -->
+  <text x="72" y="92" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" font-weight="600" letter-spacing="3.4" fill="#57606A">SOFTWARE ENGINEER &#183; LAGOS, NIGERIA</text>
+
+  <text x="72" y="164" font-family="system-ui,-apple-system,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.2" fill="#0D1117">Moruf Adebola</text>
+
+  <rect x="73" y="186" width="62" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="72" y="229" font-family="system-ui,-apple-system,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="24" font-weight="600" letter-spacing="-0.2" fill="#4F46E5">AI Automation Engineer &#160;&#183;&#160; Full-Stack Developer</text>
+
+  <text x="72" y="263" font-family="system-ui,-apple-system,'Segoe UI',Inter,Roboto,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="400" fill="#57606A">Production web &amp; mobile products &#8212; wired to run themselves.</text>
+
+  <!-- ── Workflow graphic ───────────────────────────────────── -->
+  <g fill="none" stroke="url(#accent)" stroke-width="1.6" stroke-opacity="0.55">
+    <path d="M 866 98  C 902 98 902 170 936 170"/>
+    <path d="M 866 170 L 936 170"/>
+    <path d="M 866 242 C 902 242 902 170 936 170"/>
+    <path d="M 1034 170 C 1068 170 1068 108 1104 108"/>
+    <path d="M 1034 170 L 1104 170"/>
+    <path d="M 1034 170 C 1068 170 1068 232 1104 232"/>
+  </g>
+
+  <!-- input nodes -->
+  <g fill="#FFFFFF" stroke="url(#accent)" stroke-width="1.8">
+    <circle cx="856" cy="98" r="8"/>
+    <circle cx="856" cy="170" r="8"/>
+    <circle cx="856" cy="242" r="8"/>
+    <circle cx="1114" cy="108" r="8"/>
+    <circle cx="1114" cy="170" r="8"/>
+    <circle cx="1114" cy="232" r="8"/>
+  </g>
+  <g fill="#0891B2">
+    <circle cx="1114" cy="108" r="3"/>
+    <circle cx="1114" cy="170" r="3"/>
+    <circle cx="1114" cy="232" r="3"/>
+  </g>
+
+  <!-- core -->
+  <rect x="936" y="134" width="98" height="72" rx="20" fill="#F6F8FA" stroke="url(#accent)" stroke-width="2"/>
+  <g fill="url(#accent)">
+    <circle cx="965" cy="158" r="3.4"/>
+    <circle cx="985" cy="158" r="3.4"/>
+    <circle cx="1005" cy="158" r="3.4"/>
+    <circle cx="965" cy="182" r="3.4"/>
+    <circle cx="985" cy="182" r="3.4"/>
+    <circle cx="1005" cy="182" r="3.4"/>
+  </g>
+  <text x="985" y="238" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" font-weight="600" letter-spacing="2.2" fill="#57606A">AGENT</text>
+</svg>
