@@ -1,7 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" />
-  <img src="assets/banner-dark.svg" alt="Moruf Adebola — AI Automation Engineer and Full-Stack Developer, Lagos, Nigeria" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kmgmedia/kmgmedia/main/banner-dark.svg" />
+  <img src="https://raw.githubusercontent.com/kmgmedia/kmgmedia/main/banner-light.svg" alt="Moruf Adebola — AI Automation Engineer and Full-Stack Developer, Johannesburg, South Africa" width="100%" />
 </picture>
 
 <p align="center">
